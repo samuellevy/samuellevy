@@ -4,7 +4,7 @@
 Samuel Levy - `ele / he`  
 `fullstack developer` | `software engineer`  
 
-I'm a software developer with 10 years of experience in software designing and coding. I'm currently work as fullstack developer for Rede Globo, working with .Net, React, Oracle.
+I'm a software developer with 10 years of experience in software designing and developing. I'm currently work as fullstack developer for Rede Globo, working with .Net, React, Oracle.
 
 ### Contact
 **E-mail**: samuellevy.dev@gmail.com  
