@@ -6,6 +6,8 @@ Samuel Levy - `ele / he`
 
 I'm a software developer with 10 years of experience in software designing and developing. I'm currently work as fullstack developer for Rede Globo, working with .Net, React, Oracle.
 
+[Click for resume](https://gist.github.com/samuellevy/f62a6db1754e49d2caad5c7a208c4fc9)
+
 ### Contact
 **E-mail**: samuellevy.dev@gmail.com  
 **Telegram** @samuellevyscl  
