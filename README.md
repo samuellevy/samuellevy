@@ -1,4 +1,4 @@
-![Cover](assets/cover.jpeg)
+![Cover](assets/cover-code-samuel.gif)
 
 **Samuel Levy** `ele / he`  
 `Software Engineer`  
